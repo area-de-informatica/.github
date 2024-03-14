@@ -23,7 +23,7 @@ Este documento detalla la planificación y desarrollo de un componente de mensaj
 - **Contacto:** Sin contacto.
 
 
-### Componente 3: Componente de Mensajería
+### Componente 3: Componente Lector de Códigos QR
 ![QRCode imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_qr_code/main/assets/2024031381705.png)
 
 La mayoría de los sistemas de inicio de sesión actuales dependen de unas credenciales (usuario y contraseña), que a menudo son olvidadas por los usuarios. El componente Login con QR, propone una solución amigable que satisface las necesidades y expectativas de los usuarios, en particular aquellos con limitaciones visuales y quienes tienden a olvidar sus contraseñas con facilidad. Este enfoque de inicio de sesión simplificado ofrece comodidad y accesibilidad a un amplio público, abriendo nuevas posibilidades para una experiencia de usuario más inclusiva y eficiente. 
