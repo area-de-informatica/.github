@@ -13,15 +13,24 @@ La propuesta es la integración de un componente "TalkBack" en la plataforma Cre
 - **Colaboradores:** Jorge David Hernández Morelo, Camilo Andrés Gómez Bejarano, Adriana Causil García.
 - **Contacto:** Sin contacto.
 
-### Componente 1: Componente de Mensajería
-![TalkBack imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_messages/main/documents/assets/2024031380700.png)
+### Componente 2: Componente de Mensajería
+![Message imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_messages/main/documents/assets/2024031380700.png)
 
 Este documento detalla la planificación y desarrollo de un componente de mensajería innovador que incorpora un chat-bot basado en inteligencia artificial y un servicio de soporte con expertos. La creación de este componente tiene como objetivo principal mejorar la experiencia del usuario al proporcionar respuestas rápidas y efectivas a sus preguntas. 
 
-- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_talkback.git)
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_qr_code.git)
 - **Colaboradores:** Jaider Martinez Paternina - María Camila Salgado Montiel - Luis Manuel Cogollo Ayazo - Jhoan Sebastián Fernández Julio.
 - **Contacto:** Sin contacto.
 
+
+### Componente 3: Componente de Mensajería
+![QRCode imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_qr_code/main/assets/2024031381705.png)
+
+La mayoría de los sistemas de inicio de sesión actuales dependen de unas credenciales (usuario y contraseña), que a menudo son olvidadas por los usuarios. El componente Login con QR, propone una solución amigable que satisface las necesidades y expectativas de los usuarios, en particular aquellos con limitaciones visuales y quienes tienden a olvidar sus contraseñas con facilidad. Este enfoque de inicio de sesión simplificado ofrece comodidad y accesibilidad a un amplio público, abriendo nuevas posibilidades para una experiencia de usuario más inclusiva y eficiente. 
+
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_talkback.git)
+- **Colaboradores:** Samir Banquez Humanez - Diana Humanez - Santiago Quintero.
+- **Contacto:** Sin contacto.
 
 
 ## Cómo Participar
