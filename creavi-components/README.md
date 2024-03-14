@@ -43,6 +43,20 @@ Nuestra propuesta es realizar un componente que permita brindarle al administrad
 - **Colaboradores:** Daniel David Doria Diaz, Kissy Carolina Manjarrez Murillo, Jabib Roberto Manzur Lemos y Daniel Alejandro Márquez Araujo.
 - **Contacto:** Sin contacto.
 
+### Componente 5: Componente de Contenidos
+![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_content/main/documents/assets/2024031385643.png)
+
+Este documento define el diseño de un componente de contenido para un software educativo.
+Este componente de contenido estará diseñado para mostrar la organización y visualización del material educativo que se presenta a los usuarios El componente permitirá visualizar el contenido de manera organizada y jerarquizada, siguiendo los principios de accesibilidad, usabilidad y adaptabilidad. Este componente les permitirá a los usuarios navegar fácilmente por el contenido el cual puede ser en formato de texto, multimedia o una combinación de ambos. Este documento describe las características y funciones clave que tendrá este componente.
+El módulo de contenidos sirve como el núcleo central de la plataforma, proporcionando acceso organizado y estructurado a los materiales de aprendizaje a compartir por el docente. Este componente es fundamental para la experiencia del usuario, ya que concentra y presenta los recursos educativos de manera intuitiva. Desde textos, multimedia, archivos word, pdf etc. El módulo de contenidos facilita la entrega de información educativa de manera efectiva. Permite a los usuarios, ya sean estudiantes o invitados, explorar, acceder, comentar y comprender el material de estudio de manera coherente y sistemática.
+Este módulo educativo actúa como el punto central para la entrega y exploración de los materiales de aprendizaje, proporcionando una plataforma eficiente y organizada para el proceso educativo.
+ 
+
+
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_content.git)
+- **Colaboradores:** Almanza Ávila José Daniel, Galeano Santamaría Fabio, Manjarrez Hernández José Gabriel, Luna Genes Dor María, Valdelamar Vega Jesus David
+- **Contacto:** Sin contacto.
+
 # Cómo Participar
 
 1. **Elige un Proyecto:** Lee las descripciones de los proyectos disponibles y elige el que te interese.
