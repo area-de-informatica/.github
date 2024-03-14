@@ -1,16 +1,16 @@
-# Proyectos Disponibles
+# CREAVI - Componentes
 
-Este repositorio contiene una lista de proyectos disponibles para que los estudiantes trabajen en ellos. Cada proyecto está organizado en su propia carpeta dentro de este repositorio.
+Este repositorio contiene una lista de componentes disponibles para que los estudiantes trabajen en ellos. Cada componente está organizado en su propio repositorio, si deseas continuarlo deberás hacer un fork del proyecto y trabajar en tu propia versión.
 
-## Lista de Proyectos
+## Lista de componentes
 
-### Proyecto 1: Nombre del Proyecto
+### Componente 1: TalkBack
 
-Descripción breve del proyecto y los objetivos que busca alcanzar.
+La propuesta es la integración de un componente "TalkBack" en la plataforma Creavi, con el objetivo de mejorar la accesibilidad para las personas con discapacidad visual en la misma. Este componente permitirá a los usuarios con discapacidad visual navegar por la plataforma utilizando comandos de voz, además de proporcionar lectura audible de los menús principales en pantalla. La idea central es brindar una experiencia de usuario inclusiva y eficiente, lo que facilitará que las personas con discapacidad visual puedan utilizar la plataforma de manera efectiva, accediendo a sus funcionalidades y recursos educativos sin dificultad. 
 
-- **Repositorio:** [Enlace al repositorio](enlace)
-- **Equipo(s):** Equipo 1, Equipo 2
-- **Contacto:** Nombre del docente [correo electrónico]
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_talkback.git)
+- **Colaboradores:** Jorge David Hernández Morelo, Camilo Andrés Gómez Bejarano, Adriana Causil García.
+- **Contacto:** Sin contacto.
 
 ### Proyecto 2: Nombre del Proyecto
 
