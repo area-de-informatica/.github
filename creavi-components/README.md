@@ -5,6 +5,7 @@ Este repositorio contiene una lista de componentes disponibles para que los estu
 ## Lista de componentes
 
 ### Componente 1: TalkBack
+![TalkBack imagen](https://github.com/area-de-informatica/.github/blob/main/creavi-components/assets/312659208-a4640488-ab48-4431-830c-0f362e2a891e.png)
 
 La propuesta es la integración de un componente "TalkBack" en la plataforma Creavi, con el objetivo de mejorar la accesibilidad para las personas con discapacidad visual en la misma. Este componente permitirá a los usuarios con discapacidad visual navegar por la plataforma utilizando comandos de voz, además de proporcionar lectura audible de los menús principales en pantalla. La idea central es brindar una experiencia de usuario inclusiva y eficiente, lo que facilitará que las personas con discapacidad visual puedan utilizar la plataforma de manera efectiva, accediendo a sus funcionalidades y recursos educativos sin dificultad. 
 
@@ -12,13 +13,16 @@ La propuesta es la integración de un componente "TalkBack" en la plataforma Cre
 - **Colaboradores:** Jorge David Hernández Morelo, Camilo Andrés Gómez Bejarano, Adriana Causil García.
 - **Contacto:** Sin contacto.
 
-### Proyecto 2: Nombre del Proyecto
+### Componente 1: Componente de Mensajería
+![TalkBack imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_messages/main/documents/assets/2024031380700.png)
 
-Descripción breve del proyecto y los objetivos que busca alcanzar.
+Este documento detalla la planificación y desarrollo de un componente de mensajería innovador que incorpora un chat-bot basado en inteligencia artificial y un servicio de soporte con expertos. La creación de este componente tiene como objetivo principal mejorar la experiencia del usuario al proporcionar respuestas rápidas y efectivas a sus preguntas. 
 
-- **Repositorio:** [Enlace al repositorio](enlace)
-- **Equipo(s):** Equipo 3, Equipo 4
-- **Contacto:** Nombre del docente [correo electrónico]
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_talkback.git)
+- **Colaboradores:** Jaider Martinez Paternina - María Camila Salgado Montiel - Luis Manuel Cogollo Ayazo - Jhoan Sebastián Fernández Julio.
+- **Contacto:** Sin contacto.
+
+
 
 ## Cómo Participar
 
