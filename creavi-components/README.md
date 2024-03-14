@@ -2,7 +2,7 @@
 
 Este repositorio contiene una lista de componentes disponibles para que los estudiantes trabajen en ellos. Cada componente está organizado en su propio repositorio, si deseas continuarlo deberás hacer un fork del proyecto y trabajar en tu propia versión.
 
-## Lista de componentes
+## Lista de componentes en Fase I
 
 ### Componente 1: TalkBack - Fase I
 ![TalkBack imagen](https://github.com/area-de-informatica/.github/blob/main/creavi-components/assets/312659208-a4640488-ab48-4431-830c-0f362e2a891e.png)
