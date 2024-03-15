@@ -88,7 +88,7 @@ Además, es necesario especificar las características necesarias de cada defini
 - **Colaboradores:** Elkin Ricardo Lopez Castillo, Michael Steven Barrios Martinez, Valentina Sierra Gloria, Juan Sebastian Tirado Verbel, Jhonatan Salas De la rosa
 - **Contacto:** Sin contacto.
 
-    ### Componente 8: Componente Trabajo Colaborativo - Fase II
+### Componente 9: Componente Trabajo Colaborativo - Fase II
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_colaborative_teams/main/assets/20240315110834.png)
 
 El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
@@ -97,10 +97,17 @@ Además, es necesario especificar las características necesarias de cada defini
 
 - **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/paul_colaborative_teams.git)
 - **Colaboradores:** Andres Felipe Perez Martinez, Jorge Eliecer Gonzales Mejia, Edwin Isaac Martinez Escarpeta, TAFUR CAMPILLO MARÍA ALEJANDRA
-
 - **Contacto:** Sin contacto.
   
+### Componente 10: Componente Sistema Control de Versiones - Fase II
+![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_version_control_json/main/assets/20240315112212.png)
 
+Bienvenido a la documentación del Módulo de Control de Versiones. Este componente es una herramienta esencial para gestionar y rastrear cambios en el código fuente de un proyecto, facilitando la colaboración entre desarrolladores y asegurando la integridad y consistencia del software.
+
+
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/paul_version_control_json.git)
+- **Colaboradores:** José Carlos Negrete Hoyos, Johana Patricia Díaz Padilla
+- **Contacto:** Sin contacto.
 # Cómo Participar
 
 1. **Elige un Proyecto:** Lee las descripciones de los proyectos disponibles y elige el que te interese.
