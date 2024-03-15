@@ -50,13 +50,23 @@ Este documento define el diseño de un componente de contenido para un software 
 Este componente de contenido estará diseñado para mostrar la organización y visualización del material educativo que se presenta a los usuarios El componente permitirá visualizar el contenido de manera organizada y jerarquizada, siguiendo los principios de accesibilidad, usabilidad y adaptabilidad. Este componente les permitirá a los usuarios navegar fácilmente por el contenido el cual puede ser en formato de texto, multimedia o una combinación de ambos. Este documento describe las características y funciones clave que tendrá este componente.
 El módulo de contenidos sirve como el núcleo central de la plataforma, proporcionando acceso organizado y estructurado a los materiales de aprendizaje a compartir por el docente. Este componente es fundamental para la experiencia del usuario, ya que concentra y presenta los recursos educativos de manera intuitiva. Desde textos, multimedia, archivos word, pdf etc. El módulo de contenidos facilita la entrega de información educativa de manera efectiva. Permite a los usuarios, ya sean estudiantes o invitados, explorar, acceder, comentar y comprender el material de estudio de manera coherente y sistemática.
 Este módulo educativo actúa como el punto central para la entrega y exploración de los materiales de aprendizaje, proporcionando una plataforma eficiente y organizada para el proceso educativo.
- 
-
 
 - **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_content.git)
 - **Colaboradores:** Almanza Ávila José Daniel, Galeano Santamaría Fabio, Manjarrez Hernández José Gabriel, Luna Genes Dor María, Valdelamar Vega Jesus David
 - **Contacto:** Sin contacto.
 
+### Componente 6: Componente de Contenidos - Fase II
+![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_content_module/main/assets/20240315103932.png)
+
+El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
+Dentro del módulo de contenidos, es importante incluir las definiciones conceptuales. Estas definiciones son la expresión de los rasgos fundamentales que constituyen el contenido de cada concepto. En esta fase, se presenta la declaración teórica de cada concepto, brindando una comprensión clara y precisa de su significado.
+Además, es necesario especificar las características necesarias de cada definición conceptual. Esto implica puntualizar los atributos representativos de cada palabra extraída de las bases conceptuales. Estas características proporcionan coherencia y consistencia a los contenidos del software, asegurando que se mantenga una línea de pensamiento coherente en todo el desarrollo.
+
+- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/pads_content.git)
+- **Colaboradores:** Andrea de los Ángeles Bettin Cáceres, Félix Mateo Roldan Rodríguez, Gregorio Pérez Valencia, Juan Daniel Pérez Argel
+- **Contacto:** Sin contacto.
+
+  
 # Cómo Participar
 
 1. **Elige un Proyecto:** Lee las descripciones de los proyectos disponibles y elige el que te interese.
