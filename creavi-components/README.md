@@ -77,17 +77,6 @@ Además, es necesario especificar las características necesarias de cada defini
 - **Colaboradores:** Elkin Ricardo Lopez Castillo, Michael Steven Barrios Martinez, Valentina Sierra Gloria, Juan Sebastian Tirado Verbel, Jhonatan Salas De la rosa
 - **Contacto:** Sin contacto.
 
-  ### Componente 8: Componente de Contenidos - Fase II
-![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_content_module_02/main/assets/20240315104946.png)
-
-El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
-Dentro del módulo de contenidos, es importante incluir las definiciones conceptuales. Estas definiciones son la expresión de los rasgos fundamentales que constituyen el contenido de cada concepto. En esta fase, se presenta la declaración teórica de cada concepto, brindando una comprensión clara y precisa de su significado.
-Además, es necesario especificar las características necesarias de cada definición conceptual. Esto implica puntualizar los atributos representativos de cada palabra extraída de las bases conceptuales. Estas características proporcionan coherencia y consistencia a los contenidos del software, asegurando que se mantenga una línea de pensamiento coherente en todo el desarrollo.
-
-- **Repositorio:** [[Enlace al repositorio](enlace)](https://github.com/Grupo-Investigacion-Bimadino/paul_content_module_02.git)
-- **Colaboradores:** Elkin Ricardo Lopez Castillo, Michael Steven Barrios Martinez, Valentina Sierra Gloria, Juan Sebastian Tirado Verbel, Jhonatan Salas De la rosa
-- **Contacto:** Sin contacto.
-
 ### Componente 9: Componente Trabajo Colaborativo - Fase II
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_colaborative_teams/main/assets/20240315110834.png)
 
