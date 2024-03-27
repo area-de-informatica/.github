@@ -30,3 +30,4 @@ Servidor: El servidor se encarga de procesar todas las necesidades del cliente a
 Este repositorio está destinado a servir como una plataforma centralizada para organizar y coordinar proyectos disponibles para los estudiantes. Si tienes ideas para mejorar este repositorio o quieres sugerir nuevos proyectos, no dudes en contactar al docente responsable.
 
 ¡Esperamos ver tus contribuciones!
+Lecturas:[https://click-it.es/solid-cinco-principios-basicos-para-desarrollar-software-de-calidad/](https://click-it.es/solid-cinco-principios-basicos-para-desarrollar-software-de-calidad/)
