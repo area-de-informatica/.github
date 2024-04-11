@@ -2,9 +2,9 @@
 
 Este repositorio contiene una lista de componentes disponibles para que los estudiantes trabajen en ellos. Cada componente está organizado en su propio repositorio, si deseas continuarlo deberás hacer un fork del proyecto y trabajar en tu propia versión.
 
-## Lista de componentes en Fase I
+## Lista de componentes en Fase II
 
-### Componente 1: TalkBack - Fase I
+### Componente 1: TalkBack - Fase II
 ![TalkBack imagen](https://github.com/area-de-informatica/.github/blob/main/creavi-components/assets/312659208-a4640488-ab48-4431-830c-0f362e2a891e.png)
 
 La propuesta es la integración de un componente "TalkBack" en la plataforma Creavi, con el objetivo de mejorar la accesibilidad para las personas con discapacidad visual en la misma. Este componente permitirá a los usuarios con discapacidad visual navegar por la plataforma utilizando comandos de voz, además de proporcionar lectura audible de los menús principales en pantalla. La idea central es brindar una experiencia de usuario inclusiva y eficiente, lo que facilitará que las personas con discapacidad visual puedan utilizar la plataforma de manera efectiva, accediendo a sus funcionalidades y recursos educativos sin dificultad. 
@@ -13,7 +13,7 @@ La propuesta es la integración de un componente "TalkBack" en la plataforma Cre
 - **Colaboradores:** Jorge David Hernández Morelo, Camilo Andrés Gómez Bejarano, Adriana Causil García.
 - **Contacto:** Sin contacto.
 
-### Componente 2: Componente de Mensajería - Fase I
+### Componente 2: Componente de Mensajería - Fase II
 ![Message imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_messages/main/documents/assets/2024031380700.png)
 
 Este documento detalla la planificación y desarrollo de un componente de mensajería innovador que incorpora un chat-bot basado en inteligencia artificial y un servicio de soporte con expertos. La creación de este componente tiene como objetivo principal mejorar la experiencia del usuario al proporcionar respuestas rápidas y efectivas a sus preguntas. 
@@ -23,7 +23,7 @@ Este documento detalla la planificación y desarrollo de un componente de mensaj
 - **Contacto:** Sin contacto.
 
 
-### Componente 3: Componente Lector de Códigos QR - Fase I
+### Componente 3: Componente Lector de Códigos QR - Fase II
 ![QRCode imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_qr_code/main/assets/2024031381705.png)
 
 La mayoría de los sistemas de inicio de sesión actuales dependen de unas credenciales (usuario y contraseña), que a menudo son olvidadas por los usuarios. El componente Login con QR, propone una solución amigable que satisface las necesidades y expectativas de los usuarios, en particular aquellos con limitaciones visuales y quienes tienden a olvidar sus contraseñas con facilidad. Este enfoque de inicio de sesión simplificado ofrece comodidad y accesibilidad a un amplio público, abriendo nuevas posibilidades para una experiencia de usuario más inclusiva y eficiente. 
@@ -33,7 +33,7 @@ La mayoría de los sistemas de inicio de sesión actuales dependen de unas crede
 - **Contacto:** Sin contacto.
 
 
-### Componente 4: Componente Login con OAuth 2.0 - Fase I
+### Componente 4: Componente Login con OAuth 2.0 - Fase II
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_oauth2/main/documents/assets/2024031383740.png)
 
 Nuestra propuesta es realizar un componente que permita brindarle al administrador agregar diferentes maneras de iniciar sesión con cuentas alternas como lo son Google, Facebook, X, Instagram. 
@@ -43,7 +43,7 @@ Nuestra propuesta es realizar un componente que permita brindarle al administrad
 - **Colaboradores:** Daniel David Doria Diaz, Kissy Carolina Manjarrez Murillo, Jabib Roberto Manzur Lemos y Daniel Alejandro Márquez Araujo.
 - **Contacto:** Sin contacto.
 
-### Componente 5: Componente de Contenidos - Fase I
+### Componente 5: Componente de Contenidos - Fase II
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/pads_content/main/documents/assets/2024031385643.png)
 
 Este documento define el diseño de un componente de contenido para un software educativo.
@@ -55,7 +55,7 @@ Este módulo educativo actúa como el punto central para la entrega y exploraci�
 - **Colaboradores:** Almanza Ávila José Daniel, Galeano Santamaría Fabio, Manjarrez Hernández José Gabriel, Luna Genes Dor María, Valdelamar Vega Jesus David
 - **Contacto:** Sin contacto.
 
-### Componente 6: Componente de Contenidos - Fase II
+### Componente 6: Componente de Contenidos - Fase III
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_content_module/main/assets/20240315103932.png)
 
 El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
@@ -66,7 +66,7 @@ Además, es necesario especificar las características necesarias de cada defini
 - **Colaboradores:** Andrea de los Ángeles Bettin Cáceres, Félix Mateo Roldan Rodríguez, Gregorio Pérez Valencia, Juan Daniel Pérez Argel
 - **Contacto:** Sin contacto.
 
-### Componente 8: Componente de Contenidos - Fase II
+### Componente 8: Componente de Contenidos - Fase III
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_content_module_02/main/assets/20240315104946.png)
 
 El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
@@ -77,7 +77,7 @@ Además, es necesario especificar las características necesarias de cada defini
 - **Colaboradores:** Elkin Ricardo Lopez Castillo, Michael Steven Barrios Martinez, Valentina Sierra Gloria, Juan Sebastian Tirado Verbel, Jhonatan Salas De la rosa
 - **Contacto:** Sin contacto.
 
-### Componente 9: Componente Trabajo Colaborativo - Fase II
+### Componente 9: Componente Trabajo Colaborativo - Fase III
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_colaborative_teams/main/assets/20240315110834.png)
 
 El módulo de contenidos es una parte fundamental en el desarrollo del software CREAVI, ya que se encarga de establecer los conceptos teóricos que sustentan todo el sistema. En esta sección, se definen los calificativos que describen los contenidos tratados en el software de manera general.
@@ -88,7 +88,7 @@ Además, es necesario especificar las características necesarias de cada defini
 - **Colaboradores:** Andres Felipe Perez Martinez, Jorge Eliecer Gonzales Mejia, Edwin Isaac Martinez Escarpeta, TAFUR CAMPILLO MARÍA ALEJANDRA
 - **Contacto:** Sin contacto.
   
-### Componente 10: Componente Sistema Control de Versiones - Fase II
+### Componente 10: Componente Sistema Control de Versiones - Fase III
 ![QAuth 2.0 imagen](https://raw.githubusercontent.com/Grupo-Investigacion-Bimadino/paul_version_control_json/main/assets/20240315112212.png)
 
 Bienvenido a la documentación del Módulo de Control de Versiones. Este componente es una herramienta esencial para gestionar y rastrear cambios en el código fuente de un proyecto, facilitando la colaboración entre desarrolladores y asegurando la integridad y consistencia del software.
