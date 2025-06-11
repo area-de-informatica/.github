@@ -1,7 +1,7 @@
-#OVAS
+# OVAS
 
-###OVA GIT
-###ALI BEN HUR CULCHAC DE LA VEGA
+### OVA GIT
+### ALI BEN HUR CULCHAC DE LA VEGA
 
 - **Repositorio:** [https://area-de-informatica.github.io/ai_ova_git/](https://area-de-informatica.github.io/ai_ova_git/)
 
